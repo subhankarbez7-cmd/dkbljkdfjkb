@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.git/
+.gitignore
+.venv/
+venv/
+env/
+*.log
+README.md
+WhatsApp Image*.jpeg
+main.py
+.DS_Store
+Thumbs.db
